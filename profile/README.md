@@ -20,7 +20,7 @@ Si vous trouvez nos projets utiles, envisagez de [devenir un sponsor](https://gi
 
 ## Connectez-vous Avec Nous
 
-- Suivez-nous sur [Discord](https://discord.gg/)
+- Suivez-nous sur [Discord](https://discord.gg/fQtqYnTGF7)
 
 ## Licence
 [WIP]
